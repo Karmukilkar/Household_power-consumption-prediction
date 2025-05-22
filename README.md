@@ -5,11 +5,11 @@ This project analyzes and predicts household power consumption using real-world 
 
 
 # Tech Stack used
-*pandas
-*numpy
-*matplotlib
-*seaborn
-*scikit-learn
+- **pandas**
+- **numpy**
+- **matplotlib**
+- **seaborn**
+- **scikit-learn**
 
 
 # Key Features
@@ -33,6 +33,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License.
 
 
-Author : Karthik muruganatham
-Github : 
+# **Author** : Karthik muruganatham
+# **Github** : 
 
