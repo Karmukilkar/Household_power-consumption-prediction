@@ -13,11 +13,11 @@ This project analyzes and predicts household power consumption using real-world 
 
 
 # Key Features
-*Data cleaning and preprocessing
-*Feature engineering
-*Data visualization and correlation analysis
-*Standardization of numeric features
-*Saves a cleaned dataset for machine learning
+- Data cleaning and preprocessing
+- Feature engineering
+- Data visualization and correlation analysis
+- Standardization of numeric features
+- Saves a cleaned dataset for machine learning
 
 
 # Dataset
