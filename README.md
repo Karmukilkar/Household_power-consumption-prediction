@@ -34,5 +34,5 @@ This project is licensed under the MIT License.
 
 
 # **Author** : Karthik muruganatham
-# **Github** : 
+# **Github** : https://github.com/Karmukilkar/Household_power-consumption-prediction/tree/main
 
