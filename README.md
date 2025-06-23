@@ -109,7 +109,6 @@ power_household/
 | Gradient Boosting    | 0.007653 | 0.087481 | 0.230922 |
 | Neural Network       | 0.007582 | 0.087074 | 0.231992 |
 
-*(Fill in with your actual results)*
 
 ---
 
