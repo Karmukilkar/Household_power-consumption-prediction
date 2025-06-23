@@ -104,10 +104,10 @@ power_household/
 
 | Model                | MSE      | RMSE     | MAPE     |
 |----------------------|----------|----------|----------|
-| Linear Regression    | ...      | ...      | ...      |
-| Random Forest        | ...      | ...      | ...      |
-| Gradient Boosting    | ...      | ...      | ...      |
-| Neural Network       | ...      | ...      | ...      |
+| Linear Regression    | 7.129252 | 0.000844	| 0.000147 |
+| Random Forest        | 0.000043 | 0.006527 | 0.001451 |
+| Gradient Boosting    | 0.007653 | 0.087481 | 0.230922 |
+| Neural Network       | 0.007582 | 0.087074 | 0.231992 |
 
 *(Fill in with your actual results)*
 
