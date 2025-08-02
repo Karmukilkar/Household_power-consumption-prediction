@@ -12,6 +12,24 @@ This project analyzes and predicts household power consumption using various reg
 
 ---
 
+## ✅ What Problem Does It Solve?
+Household energy consumption is highly variable, and poor demand prediction can lead to unnecessary energy waste, higher costs, and inefficient grid management. For homeowners, unexpected energy spikes can increase bills and carbon footprints. For energy providers, inaccurate demand estimates can cause supply mismatches, underutilization of resources, or overloads on the grid.
+
+---
+
+## 🎯 Why It’s Needed
+Accurately predicting household power usage enables:
+
+Smarter energy planning: Households can adjust usage to reduce costs and peak load.
+
+Sustainability: Better predictions mean more efficient energy distribution, supporting green energy goals.
+
+Load balancing: Helps utilities balance supply and demand, minimizing blackouts or wastage.
+
+Data-driven decisions: Enables smart home devices or energy dashboards to provide actionable tips to reduce consumption.
+
+---
+
 ## 🛠️ Technical Tags
 
 - Data Preprocessing
